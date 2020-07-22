@@ -1,6 +1,9 @@
 * [Check my profile / links / talks here](http://adamatti.github.io)
 * Working at [Creditas](http://bit.ly/CreditasGist) as [Engineering lead](http://bit.ly/adamattiReadme)
 * Some bookmarks and references: [awesome list](http://github.com/adamatti/awesome)
+* GitHub [
+[profile summary](https://profile-summary-for-github.com/user/adamatti)
+]
 
 #### Projects I'm most proud of
 
