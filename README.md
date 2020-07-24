@@ -26,3 +26,7 @@
 [cars](https://github.com/adamatti/Cars)
 ]
 * [Projects outside github](https://adamatti.github.io/#/projects)
+
+<p  align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=adamatti.visitor-badge" alt="visitor badge"/>
+</p>
