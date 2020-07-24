@@ -28,5 +28,20 @@
 * [Projects outside github](https://adamatti.github.io/#/projects)
 
 <p  align="center">
+<a href="https://twitter.com/adamatti">
+  <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/adamatti">
+  <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.facebook.com/marcelo.adamatti">
+  <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="mailto:adamatti@gmail.com">
+  <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+</p>
+
+<p  align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=adamatti.visitor-badge" alt="visitor badge"/>
 </p>
