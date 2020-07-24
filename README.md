@@ -34,7 +34,7 @@
 <a href="https://www.linkedin.com/in/adamatti">
   <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/marcelo.adamatti">
+<a href="https://www.facebook.com/adabot.marcelo.adamatti">
   <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="mailto:adamatti@gmail.com">
