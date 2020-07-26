@@ -40,6 +40,9 @@
 <a href="mailto:adamatti@gmail.com">
   <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+<a href="https://wa.me/5551984253027">
+  <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>
 </p>
 
 <p  align="center">
