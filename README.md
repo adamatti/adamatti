@@ -5,6 +5,7 @@
 [profile summary](https://profile-summary-for-github.com/user/adamatti) |
 [sourcerer](https://sourcerer.io/adamatti)
 ]
+* [CodingGame Profile](https://www.codingame.com/profile/36aab70c3c25064569116d62a42f57d49282804)
 
 #### Projects I'm most proud of
 
