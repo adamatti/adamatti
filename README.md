@@ -1,9 +1,7 @@
 * [Check my profile / links / talks here](http://adamatti.github.io)
 * Some bookmarks and references: [awesome list](http://github.com/adamatti/awesome)
 * GitHub [
-[profile summary](https://profile-summary-for-github.com/user/adamatti) |
-[sourcerer](https://sourcerer.io/adamatti)
-]
+[profile summary](https://profile-summary-for-github.com/user/adamatti) ]
 * [CodingGame Profile](https://www.codingame.com/profile/36aab70c3c25064569116d62a42f57d49282804)
 
 <p  align="center">
