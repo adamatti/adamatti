@@ -6,27 +6,6 @@
 ]
 * [CodingGame Profile](https://www.codingame.com/profile/36aab70c3c25064569116d62a42f57d49282804)
 
-#### Projects I'm most proud of
-
-* Groovy [
-[wiki](https://github.com/adamatti/Wiki) |
-[poc rule engine](https://github.com/adamatti/PocRuleEngineGroovy) |
-[chatbot](https://github.com/adamatti/AdaBot)
-]
-* Rust [
-[wiki](https://github.com/adamatti/rust-wiki)
-]
-* Go [
-[sandbox](https://github.com/adamatti/SandboxGo)
-]
-* Node [
-[task manager](https://github.com/adamatti/tasks) |
-[sandbox](https://github.com/adamatti/SandboxNode) |
-[hubot](https://github.com/adamatti/LearnHubot) |
-[cars](https://github.com/adamatti/Cars)
-]
-* [Projects outside github](https://adamatti.github.io/#/projects)
-
 <p  align="center">
 <a href="https://twitter.com/adamatti">
   <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
