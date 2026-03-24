@@ -3,7 +3,7 @@
 * GitHub [
 [profile summary](https://profile-summary-for-github.com/user/adamatti) ]
 * [CodingGame Profile](https://www.codingame.com/profile/36aab70c3c25064569116d62a42f57d49282804)
-* Looking for my current github stats? Check [adamatti-upkeep](http://github.com/adamatti-upkeep)
+* Also have some stats [adamatti-upkeep](http://github.com/adamatti-upkeep) (company required an excluside user)
 
 <p  align="center">
 <a href="https://twitter.com/adamatti">
