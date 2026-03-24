@@ -1,7 +1,7 @@
 * [Check my profile / links / talks here](http://adamatti.github.io?utm_source=github)
 * Some bookmarks and references: [awesome list](http://github.com/adamatti/awesome)
 * [CodingGame Profile](https://www.codingame.com/profile/36aab70c3c25064569116d62a42f57d49282804) (OLD)
-* Also have some stats [adamatti-upkeep](http://github.com/adamatti-upkeep) (company required an excluside user)
+* Also have some stats at [adamatti-upkeep](http://github.com/adamatti-upkeep) (company required an excluside user)
 
 <p  align="center">
 <a href="https://twitter.com/adamatti">
